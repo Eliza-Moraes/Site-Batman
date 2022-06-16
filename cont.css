@@ -2,11 +2,18 @@ body {
     margin: 0%;
     padding: 0%;
     background-image: url("CONTATO");
+    background-color: rgb(235, 198, 98);
+    
 }
 
+head{
+    background-color: black ;
+}
 
-
-
+h2{
+    float: none;
+    
+}
 
 
 
